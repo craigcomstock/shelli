@@ -11,6 +11,7 @@ Shelli is a set of tools, hacks or at times a complete operating system which pr
 Initial targets for Shelli are:
 - Geeksphone Keon via sven ola debian + fbcon (fbterm?)
 - Motorola C139 via osmocom-bb + nuttx-bb, barebox, ???
+- Nook Color via sven ola debian + fbcon
 - generic pc/laptop
 
 Progress Reports
